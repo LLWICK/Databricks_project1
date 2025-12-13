@@ -36,22 +36,6 @@ Scalability
 
 Maintainability of pipelines
 
-📂 Project Structure
-Databricks_project1/
-│
-├── 1_setup/
-│   └── Databricks environment setup and configurations
-│
-├── 1_medalion_processing_dim/
-│   └── Processing and transformation of dimension tables
-│
-├── 3_medalion_processing_facts/
-│   └── Processing and transformation of fact tables
-│
-├── Dashboard/
-│   └── Analytics and dashboard-ready data outputs
-│
-├── README.md
 
 🔧 Technologies & Tools
 
